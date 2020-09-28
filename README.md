@@ -1,3 +1,3 @@
-# ceci est la 1° ligne !
+# "LOCAL"
 # exo-Merge-Conflict
 pour la quête Git/GitHub 5 de la Wild Code School Academy de Nantes session Septembre 2020
